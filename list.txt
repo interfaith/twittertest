@@ -1,0 +1,21 @@
+accounts-twitter       1.0.10* Login service for Twitter accounts
+accounts-ui            1.1.9  Simple templates to add login widgets to an app
+blaze-html-templates   1.0.4  Compile HTML templates into reactive UI with Me...
+ecmascript             0.4.8* Compiler plugin that supports ES2015+ in all .j...
+email                  1.0.16* Send email messages
+es5-shim               4.5.13* Shims and polyfills to improve ECMAScript 5 su...
+jquery                 1.11.9  Manipulate the DOM using CSS selectors
+meteor-base            1.0.4  Packages that every Meteor app needs
+mobile-experience      1.0.4  Packages for a great mobile user experience
+mongo                  1.1.9_1* Adaptor for using MongoDB and Minimongo over DDP
+reactive-var           1.0.10  Reactive variable
+service-configuration  1.0.10  Manage the configuration for third-party services
+standard-minifier-css  1.0.8* Standard css minifier used with Meteor apps by ...
+standard-minifier-js   1.0.8* Standard javascript minifiers used with Meteor ...
+tracker                1.0.15* Dependency tracker to allow reactive callbacks
+
+
+* New versions of these packages are available! Run 'meteor update' to try to
+  update those packages to their latest versions. If your packages cannot be
+  updated further, try typing `meteor add <package>@<newVersion>` to see more
+  information.
